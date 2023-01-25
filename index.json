@@ -1,0 +1,23 @@
+[
+    {
+        "Track": "Underclass Hero",
+        "Album":"Underclass Hero",
+        "Artist": "Sum 41",
+        "Duration": "3:16",
+        "Genre":["Alternative rock","Pop Punk","Punk revival"]
+    },
+    {
+        "Track":"Walking Disaster",
+        "Artist":"Underclass Hero",
+        "Album":"Sum 41",
+        "Duration": "4:46",
+        "Genre":["Alternative rock ","Melodic hardcore punk","Pop punk"]
+    },
+    {
+        "Track":"Whit me",
+        "Artist":"Sum 41",
+        "Album":"Underclass Hero",
+        "Duration":"4:51",
+        "Genre":["Alternative rock"]   
+    }
+]
